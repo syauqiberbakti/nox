@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.24.0](https://github.com/fluencelabs/nox/compare/nox-v0.23.6...nox-v0.24.0) (2024-03-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* **core-manager:** use hex format for CUIDs [fixes NET-804] ([#2188](https://github.com/fluencelabs/nox/issues/2188))
+
+### Features
+
+* **core-manager:** add dev core manager to support any number of CUs [fixes NET-799] ([#2167](https://github.com/fluencelabs/nox/issues/2167)) ([e061413](https://github.com/fluencelabs/nox/commit/e06141398959c5ba15612eecae542c41e0a96ef0))
+
+
+### Bug Fixes
+
+* **core-manager:** use hex format for CUIDs [fixes NET-804] ([#2188](https://github.com/fluencelabs/nox/issues/2188)) ([415f917](https://github.com/fluencelabs/nox/commit/415f917b37a89c0d9212d6e1f16c42645bfce152))
+
 ## [0.23.6](https://github.com/fluencelabs/nox/compare/nox-v0.23.5...nox-v0.23.6) (2024-03-18)
 
 
